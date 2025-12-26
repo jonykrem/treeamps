@@ -49,18 +49,7 @@ Icon
 *.tmp
 *.bak
 
-# === LaTeX build artifacts (for thesis/) ===
-thesis/*.aux
-thesis/*.fdb_latexmk
-thesis/*.fls
-thesis/*.log
-thesis/*.out
-thesis/*.toc
-thesis/*.synctex.gz
-thesis/*.bbl
-thesis/*.blg
-thesis/*.nav
-thesis/*.snm
-thesis/*.vrb
+# === Thesis ===
+thesis/*
 
 flamegraph.svg
